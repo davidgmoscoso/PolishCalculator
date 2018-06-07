@@ -33,13 +33,6 @@ int main(){
             else
                 printf("error: division para cero\n");
             break;
-        /*case '%':
-            op2 = pop();
-            if(op2 != 0)
-                push((int)pop() % (int)op2);
-            else
-                printf("error: division para cero\n");
-            break;*/
         case '\n':
             printf("\t%g\n", pop());
             break;
