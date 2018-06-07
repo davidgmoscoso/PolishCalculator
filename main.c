@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "cabecera.h"
+#include "calc.h"
 
 #define MAXOP 100
 
