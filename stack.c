@@ -1,3 +1,4 @@
+// stack tipo double para las operaciones binarias
 #include<stdio.h>
 
 #define MAXVAL 100
